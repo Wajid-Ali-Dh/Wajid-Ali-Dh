@@ -38,21 +38,6 @@ Robotics, computer vision, industrial automation, and AI systems that connect th
 
 ---
 
-## 🚀 Latest Projects
-<!-- LATEST-PROJECTS:START -->
-- [Project 1](https://github.com/Wajid-Ali-Dh/) — Short description here
-- [Project 2](https://github.com/Wajid-Ali-Dh/) — Short description here
-- [Project 3](https://github.com/Wajid-Ali-Dh/) — Short description here
-<!-- LATEST-PROJECTS:END -->
-
----
-
-## 📝 Recent Activity
-<!-- RECENT-ACTIVITY:START -->
-<!-- This section will automatically update -->
-<!-- RECENT-ACTIVITY:END -->
-
----
 
 ## 📬 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-ali-mts)  
